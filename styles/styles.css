@@ -21,8 +21,20 @@ hr{
 table {
   margin-left: auto;
   margin-right: auto;
+  padding: 10px;
+}
+
+tr{
+  text-align: left;
 
 }
+th, td {
+
+padding: 10px;
+
+}
+
+
 /*
 .tag
 #id
