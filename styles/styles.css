@@ -1,6 +1,19 @@
 
 body{
-  background-color: blue;
+  background-color: #eeeeee;
+  }
 
+h1{
+  color:#393e46;
+}
 
+h3{
+  color:#222831;
+}
+
+hr{
+  border-color:grey;
+  border-width:5px;
+  border-style:dotted none none;
+  width: 10%;
 }
