@@ -109,6 +109,24 @@ width: 113.600;
 width: 600px;
 margin-right: auto;
 margin-left: auto;
+position: relative;
+}
+
+
+.arrow_img{
+width: 7rem;
+position: absolute;
+right: -90px;
+bottom: 90px;
+transform: rotate(170deg);
+}
+
+.cornerIcon {
+  width: 6rem;
+  position: absolute;
+  right: 20px;
+  bottom: 45px;
+
 }
 
 
@@ -116,4 +134,13 @@ margin-left: auto;
 .footer-container{
   background-color: #00adb5;
   height: 100px;
+}
+
+#portfoliotag {
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  right: -200px;
+  top: -115px;
+  font-size: 1.5rem;
+
 }
